@@ -1,5 +1,7 @@
 # Smart_Spider
 
+项目使用的大模型为书生浦语系列大模型：https://github.com/InternLM/InternLM
+
 # 项目名称
 大型模型构建智能爬虫
 
